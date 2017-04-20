@@ -1,0 +1,133 @@
+<svg height="2078" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="2078" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">16 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ pomelo@2.2.5 </tspan>
+<tspan x="10" y="90">  ├── async@0.2.5 </tspan>
+<tspan x="10" y="106">  ├─┬ cliff@0.1.8 </tspan>
+<tspan x="10" y="122">  │ ├── colors@0.6.2 </tspan>
+<tspan x="10" y="138">  │ ├── eyes@0.1.8 </tspan>
+<tspan x="10" y="154">  │ └─┬ winston@0.6.2 </tspan>
+<tspan x="10" y="170">  │   ├── async@0.1.22 </tspan>
+<tspan x="10" y="186">  │   ├── cycle@1.0.3 </tspan>
+<tspan x="10" y="202">  │   ├── pkginfo@0.2.3 </tspan>
+<tspan x="10" y="218">  │   ├── request@2.9.203 </tspan>
+<tspan x="10" y="234">  │   └── stack-trace@0.0.9 </tspan>
+<tspan x="10" y="250">  ├── commander@2.0.0 </tspan>
+<tspan x="10" y="266">  ├── crc@0.2.0 </tspan>
+<tspan x="10" y="282">  ├── mkdirp@0.3.3 </tspan>
+<tspan x="10" y="298">  ├─┬ mqtt@0.3.9 </tspan>
+<tspan x="10" y="314">  │ ├─┬ bops@0.1.1 </tspan>
+<tspan x="10" y="330">  │ │ ├── base64-js@0.0.2 </tspan>
+<tspan x="10" y="346">  │ │ └── to-utf8@0.0.1 </tspan>
+<tspan x="10" y="362">  │ └─┬ readable-stream@1.0.34 </tspan>
+<tspan x="10" y="378">  │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="394">  │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="410">  │   ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="426">  │   └── string_decoder@0.10.31 </tspan>
+<tspan x="10" y="442">  ├── node-bignumber@1.2.1 </tspan>
+<tspan x="10" y="458">  ├─┬ pomelo-admin@1.0.0 </tspan>
+<tspan x="10" y="474">  │ ├─┬ mqtt-connection@3.0.0 </tspan>
+<tspan x="10" y="490">  │ │ ├─┬ duplexify@3.5.0 </tspan>
+<tspan x="10" y="506">  │ │ │ ├─┬ end-of-stream@1.0.0 </tspan>
+<tspan x="10" y="522">  │ │ │ │ └─┬ once@1.3.3 </tspan>
+<tspan x="10" y="538">  │ │ │ │   └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="554">  │ │ │ ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="570">  │ │ │ │ ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="586">  │ │ │ │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="602">  │ │ │ │ ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="618">  │ │ │ │ └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="634">  │ │ │ └── stream-shift@1.0.0 </tspan>
+<tspan x="10" y="650">  │ │ ├─┬ mqtt-packet@5.3.0 </tspan>
+<tspan x="10" y="666">  │ │ │ ├─┬ bl@1.2.0 </tspan>
+<tspan x="10" y="682">  │ │ │ │ └─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="698">  │ │ │ │   ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="714">  │ │ │ │   └── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="730">  │ │ │ ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="746">  │ │ │ └── safe-buffer@5.0.1 </tspan>
+<tspan x="10" y="762">  │ │ └─┬ through2@2.0.3 </tspan>
+<tspan x="10" y="778">  │ │   ├─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="794">  │ │   │ ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="810">  │ │   │ └── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="826">  │ │   └── xtend@4.0.1 </tspan>
+<tspan x="10" y="842">  │ ├── pomelo-monitor@0.3.7 </tspan>
+<tspan x="10" y="858">  │ └─┬ pomelo-scheduler@0.3.8 </tspan>
+<tspan x="10" y="874">  │   └─┬ log4js@1.1.1 </tspan>
+<tspan x="10" y="890">  │     ├── debug@2.6.3 </tspan>
+<tspan x="10" y="906">  │     ├── semver@5.3.0 </tspan>
+<tspan x="10" y="922">  │     └─┬ streamroller@0.4.0 </tspan>
+<tspan x="10" y="938">  │       ├── date-format@0.0.0 </tspan>
+<tspan x="10" y="954">  │       ├── debug@0.7.4 </tspan>
+<tspan x="10" y="970">  │       ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="986">  │       │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="1002">  │       └── readable-stream@1.1.14 </tspan>
+<tspan x="10" y="1018">  ├── pomelo-loader@0.0.6 </tspan>
+<tspan x="10" y="1034">  ├─┬ pomelo-logger@0.1.7 </tspan>
+<tspan x="10" y="1050">  │ └─┬ log4js@0.6.21 </tspan>
+<tspan x="10" y="1066">  │   └── semver@1.1.4 </tspan>
+<tspan x="10" y="1082">  ├── pomelo-protobuf@0.4.0 </tspan>
+<tspan x="10" y="1098">  ├── pomelo-protocol@0.1.6 </tspan>
+<tspan x="10" y="1114">  ├─┬ pomelo-rpc@1.0.7 </tspan>
+<tspan x="10" y="1130">  │ ├── async@1.5.2 </tspan>
+<tspan x="10" y="1146">  │ ├── bearcat-buffer@0.1.1 </tspan>
+<tspan x="10" y="1162">  │ ├── node-uuid@1.4.0 </tspan>
+<tspan x="10" y="1178">  │ └── stream-pkg@0.0.5 </tspan>
+<tspan x="10" y="1194">  ├─┬ pomelo-scheduler@0.3.9 </tspan>
+<tspan x="10" y="1210">  │ └─┬ log4js@0.6.7 </tspan>
+<tspan x="10" y="1226">  │   ├── async@0.1.15 </tspan>
+<tspan x="10" y="1242">  │   ├── dequeue@1.0.3 </tspan>
+<tspan x="10" y="1258">  │   └── semver@1.1.4 </tspan>
+<tspan x="10" y="1274">  ├── seq-queue@0.0.5 </tspan>
+<tspan x="10" y="1290">  ├─┬ socket.io@1.7.2 </tspan>
+<tspan x="10" y="1306">  │ ├─┬ debug@2.3.3 </tspan>
+<tspan x="10" y="1322">  │ │ └── ms@0.7.2 </tspan>
+<tspan x="10" y="1338">  │ ├─┬ engine.io@1.8.2 </tspan>
+<tspan x="10" y="1354">  │ │ ├─┬ accepts@1.3.3 </tspan>
+<tspan x="10" y="1370">  │ │ │ ├─┬ mime-types@2.1.15 </tspan>
+<tspan x="10" y="1386">  │ │ │ │ └── mime-db@1.27.0 </tspan>
+<tspan x="10" y="1402">  │ │ │ └── negotiator@0.6.1 </tspan>
+<tspan x="10" y="1418">  │ │ ├── base64id@1.0.0 </tspan>
+<tspan x="10" y="1434">  │ │ ├── cookie@0.3.1 </tspan>
+<tspan x="10" y="1450">  │ │ ├── debug@2.3.3 </tspan>
+<tspan x="10" y="1466">  │ │ └─┬ engine.io-parser@1.3.2 </tspan>
+<tspan x="10" y="1482">  │ │   ├── after@0.8.2 </tspan>
+<tspan x="10" y="1498">  │ │   ├── arraybuffer.slice@0.0.6 </tspan>
+<tspan x="10" y="1514">  │ │   ├── base64-arraybuffer@0.1.5 </tspan>
+<tspan x="10" y="1530">  │ │   ├── blob@0.0.4 </tspan>
+<tspan x="10" y="1546">  │ │   └── wtf-8@1.0.0 </tspan>
+<tspan x="10" y="1562">  │ ├── has-binary@0.1.7 </tspan>
+<tspan x="10" y="1578">  │ ├── object-assign@4.1.0 </tspan>
+<tspan x="10" y="1594">  │ ├─┬ socket.io-adapter@0.5.0 </tspan>
+<tspan x="10" y="1610">  │ │ └── debug@2.3.3 </tspan>
+<tspan x="10" y="1626">  │ ├─┬ socket.io-client@1.7.2 </tspan>
+<tspan x="10" y="1642">  │ │ ├── backo2@1.0.2 </tspan>
+<tspan x="10" y="1658">  │ │ ├── component-bind@1.0.0 </tspan>
+<tspan x="10" y="1674">  │ │ ├── component-emitter@1.2.1 </tspan>
+<tspan x="10" y="1690">  │ │ ├── debug@2.3.3 </tspan>
+<tspan x="10" y="1706">  │ │ ├─┬ engine.io-client@1.8.2 </tspan>
+<tspan x="10" y="1722">  │ │ │ ├── component-emitter@1.2.1 </tspan>
+<tspan x="10" y="1738">  │ │ │ ├── component-inherit@0.0.3 </tspan>
+<tspan x="10" y="1754">  │ │ │ ├── debug@2.3.3 </tspan>
+<tspan x="10" y="1770">  │ │ │ ├── has-cors@1.1.0 </tspan>
+<tspan x="10" y="1786">  │ │ │ ├── parsejson@0.0.3 </tspan>
+<tspan x="10" y="1802">  │ │ │ ├── parseqs@0.0.5 </tspan>
+<tspan x="10" y="1818">  │ │ │ ├── xmlhttprequest-ssl@1.5.3 </tspan>
+<tspan x="10" y="1834">  │ │ │ └── yeast@0.1.2 </tspan>
+<tspan x="10" y="1850">  │ │ ├── indexof@0.0.1 </tspan>
+<tspan x="10" y="1866">  │ │ ├── object-component@0.0.3 </tspan>
+<tspan x="10" y="1882">  │ │ ├─┬ parseuri@0.0.5 </tspan>
+<tspan x="10" y="1898">  │ │ │ └─┬ better-assert@1.0.2 </tspan>
+<tspan x="10" y="1914">  │ │ │   └── callsite@1.0.0 </tspan>
+<tspan x="10" y="1930">  │ │ └── to-array@0.1.4 </tspan>
+<tspan x="10" y="1946">  │ └─┬ socket.io-parser@2.3.1 </tspan>
+<tspan x="10" y="1962">  │   ├── component-emitter@1.1.2 </tspan>
+<tspan x="10" y="1978">  │   ├─┬ debug@2.2.0 </tspan>
+<tspan x="10" y="1994">  │   │ └── ms@0.7.1 </tspan>
+<tspan x="10" y="2010">  │   └── json3@3.3.2 </tspan>
+<tspan x="10" y="2026">  └─┬ ws@1.1.1 </tspan>
+<tspan x="10" y="2042">    ├── options@0.0.6 </tspan>
+<tspan x="10" y="2058">    └── ultron@1.0.2</tspan>
+</text>
+</svg>
