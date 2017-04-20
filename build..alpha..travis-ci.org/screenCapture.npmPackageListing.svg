@@ -1,157 +1,157 @@
 <svg height="2462" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2462" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 00:33:39 +0000   590305 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 00:33:39 +0000      697 bytes  AUTHORS</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 00:33:39 +0000    14181 bytes  History.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 00:33:39 +0000     1111 bytes  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 00:33:39 +0000     5563 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 00:33:39 +0000    22045 bytes  bin/pomelo</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 00:33:39 +0000      119 bytes  coverage/blanket.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 00:33:39 +0000      971 bytes  gruntfile.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 00:33:39 +0000       41 bytes  index.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 00:33:39 +0000    26005 bytes  lib/application.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 00:33:39 +0000     3940 bytes  lib/common/manager/appManager.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 00:33:39 +0000      902 bytes  lib/common/manager/taskManager.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 00:33:39 +0000     2748 bytes  lib/common/remote/backend/msgRemote.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 00:33:39 +0000     1967 bytes  lib/common/remote/frontend/channelRemote.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 00:33:39 +0000     2381 bytes  lib/common/remote/frontend/sessionRemote.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 00:33:39 +0000     9855 bytes  lib/common/service/backendSessionService.js</tspan>
-<tspan x="10" y="282"> 16.  2017-04-20 00:33:39 +0000    13795 bytes  lib/common/service/channelService.js</tspan>
-<tspan x="10" y="298"> 17.  2017-04-20 00:33:39 +0000     1741 bytes  lib/common/service/connectionService.js</tspan>
-<tspan x="10" y="314"> 18.  2017-04-20 00:33:39 +0000     2846 bytes  lib/common/service/filterService.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-20 00:33:39 +0000     3505 bytes  lib/common/service/handlerService.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-20 00:33:39 +0000    13938 bytes  lib/common/service/sessionService.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-20 00:33:39 +0000      461 bytes  lib/components/backendSession.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-20 00:33:39 +0000      249 bytes  lib/components/channel.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-20 00:33:39 +0000      844 bytes  lib/components/connection.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-20 00:33:39 +0000    11873 bytes  lib/components/connector.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-20 00:33:39 +0000     2061 bytes  lib/components/dictionary.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-20 00:33:39 +0000      876 bytes  lib/components/master.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-20 00:33:39 +0000      674 bytes  lib/components/monitor.js</tspan>
-<tspan x="10" y="474"> 28.  2017-04-20 00:33:39 +0000     3646 bytes  lib/components/protobuf.js</tspan>
-<tspan x="10" y="490"> 29.  2017-04-20 00:33:39 +0000     6932 bytes  lib/components/proxy.js</tspan>
-<tspan x="10" y="506"> 30.  2017-04-20 00:33:39 +0000     3200 bytes  lib/components/pushScheduler.js</tspan>
-<tspan x="10" y="522"> 31.  2017-04-20 00:33:39 +0000     2818 bytes  lib/components/remote.js</tspan>
-<tspan x="10" y="538"> 32.  2017-04-20 00:33:39 +0000     1372 bytes  lib/components/server.js</tspan>
-<tspan x="10" y="554"> 33.  2017-04-20 00:33:39 +0000      986 bytes  lib/components/session.js</tspan>
-<tspan x="10" y="570"> 34.  2017-04-20 00:33:39 +0000     3518 bytes  lib/connectors/commands/handshake.js</tspan>
-<tspan x="10" y="586"> 35.  2017-04-20 00:33:39 +0000     1788 bytes  lib/connectors/commands/heartbeat.js</tspan>
-<tspan x="10" y="602"> 36.  2017-04-20 00:33:39 +0000      349 bytes  lib/connectors/commands/kick.js</tspan>
-<tspan x="10" y="618"> 37.  2017-04-20 00:33:39 +0000     2598 bytes  lib/connectors/common/coder.js</tspan>
-<tspan x="10" y="634"> 38.  2017-04-20 00:33:39 +0000     1361 bytes  lib/connectors/common/handler.js</tspan>
-<tspan x="10" y="650"> 39.  2017-04-20 00:33:39 +0000     2630 bytes  lib/connectors/hybrid/switcher.js</tspan>
-<tspan x="10" y="666"> 40.  2017-04-20 00:33:39 +0000      999 bytes  lib/connectors/hybrid/tcpprocessor.js</tspan>
-<tspan x="10" y="682"> 41.  2017-04-20 00:33:39 +0000     5617 bytes  lib/connectors/hybrid/tcpsocket.js</tspan>
-<tspan x="10" y="698"> 42.  2017-04-20 00:33:39 +0000     1194 bytes  lib/connectors/hybrid/wsprocessor.js</tspan>
-<tspan x="10" y="714"> 43.  2017-04-20 00:33:39 +0000     2739 bytes  lib/connectors/hybridconnector.js</tspan>
-<tspan x="10" y="730"> 44.  2017-04-20 00:33:39 +0000     2845 bytes  lib/connectors/hybridsocket.js</tspan>
-<tspan x="10" y="746"> 45.  2017-04-20 00:33:39 +0000     3249 bytes  lib/connectors/mqtt/generate.js</tspan>
-<tspan x="10" y="762"> 46.  2017-04-20 00:33:39 +0000     2087 bytes  lib/connectors/mqtt/mqttadaptor.js</tspan>
-<tspan x="10" y="778"> 47.  2017-04-20 00:33:39 +0000     1104 bytes  lib/connectors/mqtt/protocol.js</tspan>
-<tspan x="10" y="794"> 48.  2017-04-20 00:33:39 +0000     2495 bytes  lib/connectors/mqttconnector.js</tspan>
-<tspan x="10" y="810"> 49.  2017-04-20 00:33:39 +0000     1527 bytes  lib/connectors/mqttsocket.js</tspan>
-<tspan x="10" y="826"> 50.  2017-04-20 00:33:39 +0000     3629 bytes  lib/connectors/sioconnector.js</tspan>
-<tspan x="10" y="842"> 51.  2017-04-20 00:33:39 +0000     1522 bytes  lib/connectors/siosocket.js</tspan>
-<tspan x="10" y="858"> 52.  2017-04-20 00:33:39 +0000     2746 bytes  lib/connectors/udpconnector.js</tspan>
-<tspan x="10" y="874"> 53.  2017-04-20 00:33:39 +0000     2175 bytes  lib/connectors/udpsocket.js</tspan>
-<tspan x="10" y="890"> 54.  2017-04-20 00:33:39 +0000      921 bytes  lib/filters/handler/serial.js</tspan>
-<tspan x="10" y="906"> 55.  2017-04-20 00:33:39 +0000      763 bytes  lib/filters/handler/time.js</tspan>
-<tspan x="10" y="922"> 56.  2017-04-20 00:33:39 +0000     1197 bytes  lib/filters/handler/timeout.js</tspan>
-<tspan x="10" y="938"> 57.  2017-04-20 00:33:39 +0000      700 bytes  lib/filters/handler/toobusy.js</tspan>
-<tspan x="10" y="954"> 58.  2017-04-20 00:33:39 +0000      911 bytes  lib/filters/rpc/rpcLog.js</tspan>
-<tspan x="10" y="970"> 59.  2017-04-20 00:33:39 +0000      844 bytes  lib/filters/rpc/toobusy.js</tspan>
-<tspan x="10" y="986"> 60.  2017-04-20 00:33:39 +0000       37 bytes  lib/index.js</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-20 00:33:39 +0000     3981 bytes  lib/master/master.js</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-20 00:33:39 +0000     5785 bytes  lib/master/starter.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-20 00:33:39 +0000     3538 bytes  lib/master/watchdog.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-20 00:33:39 +0000    12306 bytes  lib/modules/console.js</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-20 00:33:39 +0000     3170 bytes  lib/modules/masterwatcher.js</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-20 00:33:39 +0000     3782 bytes  lib/modules/monitorwatcher.js</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-20 00:33:39 +0000     2254 bytes  lib/monitor/monitor.js</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-20 00:33:39 +0000     2816 bytes  lib/pomelo.js</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-20 00:33:39 +0000     2703 bytes  lib/pushSchedulers/buffer.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-20 00:33:39 +0000     1463 bytes  lib/pushSchedulers/direct.js</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-20 00:33:39 +0000    11266 bytes  lib/server/server.js</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-20 00:33:39 +0000     7661 bytes  lib/util/appUtil.js</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-20 00:33:39 +0000     2724 bytes  lib/util/constants.js</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-20 00:33:39 +0000     1171 bytes  lib/util/countDownLatch.js</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-20 00:33:39 +0000      335 bytes  lib/util/events.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-20 00:33:39 +0000      259 bytes  lib/util/log.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-20 00:33:39 +0000     2615 bytes  lib/util/moduleUtil.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-20 00:33:39 +0000     2940 bytes  lib/util/pathUtil.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-20 00:33:39 +0000     9003 bytes  lib/util/utils.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-20 00:33:39 +0000     4530 bytes  package.json</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-20 00:33:39 +0000      505 bytes  template/game-server/app.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-20 00:33:39 +0000      545 bytes  template/game-server/app.js.mqtt</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-20 00:33:39 +0000      672 bytes  template/game-server/app.js.sio</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-20 00:33:39 +0000      546 bytes  template/game-server/app.js.sio.wss</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-20 00:33:39 +0000      440 bytes  template/game-server/app.js.udp</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-20 00:33:39 +0000      675 bytes  template/game-server/app.js.wss</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-20 00:33:39 +0000     1254 bytes  template/game-server/app/servers/connector/handl\</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 00:35:00 +0000   590305 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 00:35:00 +0000      697 bytes  AUTHORS</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 00:35:00 +0000    14181 bytes  History.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 00:35:00 +0000     1111 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 00:35:00 +0000     5563 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 00:35:00 +0000    22045 bytes  bin/pomelo</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 00:35:00 +0000      119 bytes  coverage/blanket.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 00:35:00 +0000      971 bytes  gruntfile.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 00:35:00 +0000       41 bytes  index.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 00:35:00 +0000    26005 bytes  lib/application.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 00:35:00 +0000     3940 bytes  lib/common/manager/appManager.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 00:35:00 +0000      902 bytes  lib/common/manager/taskManager.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 00:35:00 +0000     2748 bytes  lib/common/remote/backend/msgRemote.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 00:35:00 +0000     1967 bytes  lib/common/remote/frontend/channelRemote.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 00:35:00 +0000     2381 bytes  lib/common/remote/frontend/sessionRemote.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 00:35:00 +0000     9855 bytes  lib/common/service/backendSessionService.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 00:35:00 +0000    13795 bytes  lib/common/service/channelService.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 00:35:00 +0000     1741 bytes  lib/common/service/connectionService.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 00:35:00 +0000     2846 bytes  lib/common/service/filterService.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 00:35:00 +0000     3505 bytes  lib/common/service/handlerService.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 00:35:00 +0000    13938 bytes  lib/common/service/sessionService.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 00:35:00 +0000      461 bytes  lib/components/backendSession.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 00:35:00 +0000      249 bytes  lib/components/channel.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 00:35:00 +0000      844 bytes  lib/components/connection.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 00:35:00 +0000    11873 bytes  lib/components/connector.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 00:35:00 +0000     2061 bytes  lib/components/dictionary.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-20 00:35:00 +0000      876 bytes  lib/components/master.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-20 00:35:00 +0000      674 bytes  lib/components/monitor.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-20 00:35:00 +0000     3646 bytes  lib/components/protobuf.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-20 00:35:00 +0000     6932 bytes  lib/components/proxy.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-20 00:35:00 +0000     3200 bytes  lib/components/pushScheduler.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-20 00:35:00 +0000     2818 bytes  lib/components/remote.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-20 00:35:00 +0000     1372 bytes  lib/components/server.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-20 00:35:00 +0000      986 bytes  lib/components/session.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-20 00:35:00 +0000     3518 bytes  lib/connectors/commands/handshake.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-20 00:35:00 +0000     1788 bytes  lib/connectors/commands/heartbeat.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-20 00:35:00 +0000      349 bytes  lib/connectors/commands/kick.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-20 00:35:00 +0000     2598 bytes  lib/connectors/common/coder.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-20 00:35:00 +0000     1361 bytes  lib/connectors/common/handler.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-20 00:35:00 +0000     2630 bytes  lib/connectors/hybrid/switcher.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-20 00:35:00 +0000      999 bytes  lib/connectors/hybrid/tcpprocessor.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-20 00:35:00 +0000     5617 bytes  lib/connectors/hybrid/tcpsocket.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-20 00:35:00 +0000     1194 bytes  lib/connectors/hybrid/wsprocessor.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-20 00:35:00 +0000     2739 bytes  lib/connectors/hybridconnector.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-20 00:35:00 +0000     2845 bytes  lib/connectors/hybridsocket.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-20 00:35:00 +0000     3249 bytes  lib/connectors/mqtt/generate.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-20 00:35:00 +0000     2087 bytes  lib/connectors/mqtt/mqttadaptor.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-20 00:35:00 +0000     1104 bytes  lib/connectors/mqtt/protocol.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-20 00:35:00 +0000     2495 bytes  lib/connectors/mqttconnector.js</tspan>
+<tspan x="10" y="810"> 49.  2017-04-20 00:35:00 +0000     1527 bytes  lib/connectors/mqttsocket.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-20 00:35:00 +0000     3629 bytes  lib/connectors/sioconnector.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-20 00:35:00 +0000     1522 bytes  lib/connectors/siosocket.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-20 00:35:00 +0000     2746 bytes  lib/connectors/udpconnector.js</tspan>
+<tspan x="10" y="874"> 53.  2017-04-20 00:35:00 +0000     2175 bytes  lib/connectors/udpsocket.js</tspan>
+<tspan x="10" y="890"> 54.  2017-04-20 00:35:00 +0000      921 bytes  lib/filters/handler/serial.js</tspan>
+<tspan x="10" y="906"> 55.  2017-04-20 00:35:00 +0000      763 bytes  lib/filters/handler/time.js</tspan>
+<tspan x="10" y="922"> 56.  2017-04-20 00:35:00 +0000     1197 bytes  lib/filters/handler/timeout.js</tspan>
+<tspan x="10" y="938"> 57.  2017-04-20 00:35:00 +0000      700 bytes  lib/filters/handler/toobusy.js</tspan>
+<tspan x="10" y="954"> 58.  2017-04-20 00:35:00 +0000      911 bytes  lib/filters/rpc/rpcLog.js</tspan>
+<tspan x="10" y="970"> 59.  2017-04-20 00:35:00 +0000      844 bytes  lib/filters/rpc/toobusy.js</tspan>
+<tspan x="10" y="986"> 60.  2017-04-20 00:35:00 +0000       37 bytes  lib/index.js</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-20 00:35:00 +0000     3981 bytes  lib/master/master.js</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-20 00:35:00 +0000     5785 bytes  lib/master/starter.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-20 00:35:00 +0000     3538 bytes  lib/master/watchdog.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-20 00:35:00 +0000    12306 bytes  lib/modules/console.js</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-20 00:35:00 +0000     3170 bytes  lib/modules/masterwatcher.js</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-20 00:35:00 +0000     3782 bytes  lib/modules/monitorwatcher.js</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-20 00:35:00 +0000     2254 bytes  lib/monitor/monitor.js</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-20 00:35:00 +0000     2816 bytes  lib/pomelo.js</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-20 00:35:00 +0000     2703 bytes  lib/pushSchedulers/buffer.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-20 00:35:00 +0000     1463 bytes  lib/pushSchedulers/direct.js</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-20 00:35:00 +0000    11266 bytes  lib/server/server.js</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-20 00:35:00 +0000     7661 bytes  lib/util/appUtil.js</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-20 00:35:00 +0000     2724 bytes  lib/util/constants.js</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-20 00:35:00 +0000     1171 bytes  lib/util/countDownLatch.js</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-20 00:35:00 +0000      335 bytes  lib/util/events.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-20 00:35:00 +0000      259 bytes  lib/util/log.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-20 00:35:00 +0000     2615 bytes  lib/util/moduleUtil.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-20 00:35:00 +0000     2940 bytes  lib/util/pathUtil.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-20 00:35:00 +0000     9003 bytes  lib/util/utils.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-20 00:35:00 +0000     4530 bytes  package.json</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-20 00:35:00 +0000      505 bytes  template/game-server/app.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-20 00:35:00 +0000      545 bytes  template/game-server/app.js.mqtt</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-20 00:35:00 +0000      672 bytes  template/game-server/app.js.sio</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-20 00:35:00 +0000      546 bytes  template/game-server/app.js.sio.wss</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-20 00:35:00 +0000      440 bytes  template/game-server/app.js.udp</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-20 00:35:00 +0000      675 bytes  template/game-server/app.js.wss</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-20 00:35:00 +0000     1254 bytes  template/game-server/app/servers/connector/handl\</tspan>
 <tspan x="10" y="1434">er/entryHandler.js</tspan>
-<tspan x="10" y="1450"> 88.  2017-04-20 00:33:39 +0000      101 bytes  template/game-server/config/adminServer.json</tspan>
-<tspan x="10" y="1466"> 89.  2017-04-20 00:33:39 +0000      291 bytes  template/game-server/config/adminUser.json</tspan>
-<tspan x="10" y="1482"> 90.  2017-04-20 00:33:39 +0000        2 bytes  template/game-server/config/clientProtos.json</tspan>
-<tspan x="10" y="1498"> 91.  2017-04-20 00:33:39 +0000        2 bytes  template/game-server/config/dictionary.json</tspan>
-<tspan x="10" y="1514"> 92.  2017-04-20 00:33:39 +0000     2269 bytes  template/game-server/config/log4js.json</tspan>
-<tspan x="10" y="1530"> 93.  2017-04-20 00:33:39 +0000      176 bytes  template/game-server/config/master.json</tspan>
-<tspan x="10" y="1546"> 94.  2017-04-20 00:33:39 +0000        2 bytes  template/game-server/config/serverProtos.json</tspan>
-<tspan x="10" y="1562"> 95.  2017-04-20 00:33:39 +0000      364 bytes  template/game-server/config/servers.json</tspan>
-<tspan x="10" y="1578"> 96.  2017-04-20 00:33:39 +0000      113 bytes  template/game-server/package.json</tspan>
-<tspan x="10" y="1594"> 97.  2017-04-20 00:33:39 +0000      166 bytes  template/npm-install.bat</tspan>
-<tspan x="10" y="1610"> 98.  2017-04-20 00:33:39 +0000      196 bytes  template/npm-install.sh</tspan>
-<tspan x="10" y="1626"> 99.  2017-04-20 00:33:39 +0000      854 bytes  template/shared/server.crt</tspan>
-<tspan x="10" y="1642">100.  2017-04-20 00:33:39 +0000      886 bytes  template/shared/server.key</tspan>
-<tspan x="10" y="1658">101.  2017-04-20 00:33:39 +0000      818 bytes  template/web-server/app.js</tspan>
-<tspan x="10" y="1674">102.  2017-04-20 00:33:39 +0000     1037 bytes  template/web-server/app.js.https</tspan>
-<tspan x="10" y="1690">103.  2017-04-20 00:33:39 +0000       62 bytes  template/web-server/bin/component.bat</tspan>
-<tspan x="10" y="1706">104.  2017-04-20 00:33:39 +0000       62 bytes  template/web-server/bin/component.sh</tspan>
-<tspan x="10" y="1722">105.  2017-04-20 00:33:39 +0000      107 bytes  template/web-server/package.json</tspan>
-<tspan x="10" y="1738">106.  2017-04-20 00:33:39 +0000     1048 bytes  template/web-server/public/css/base.css</tspan>
-<tspan x="10" y="1754">107.  2017-04-20 00:33:39 +0000     5370 bytes  template/web-server/public/image/logo.png</tspan>
-<tspan x="10" y="1770">108.  2017-04-20 00:33:39 +0000     3570 bytes  template/web-server/public/image/sp.png</tspan>
-<tspan x="10" y="1786">109.  2017-04-20 00:33:39 +0000     1679 bytes  template/web-server/public/index.html</tspan>
-<tspan x="10" y="1802">110.  2017-04-20 00:33:39 +0000     1643 bytes  template/web-server/public/index.html.sio</tspan>
-<tspan x="10" y="1818">111.  2017-04-20 00:33:39 +0000    40557 bytes  template/web-server/public/js/lib/build/build.js</tspan>
-<tspan x="10" y="1834">112.  2017-04-20 00:33:39 +0000    40243 bytes  template/web-server/public/js/lib/build/build.js\</tspan>
+<tspan x="10" y="1450"> 88.  2017-04-20 00:35:00 +0000      101 bytes  template/game-server/config/adminServer.json</tspan>
+<tspan x="10" y="1466"> 89.  2017-04-20 00:35:00 +0000      291 bytes  template/game-server/config/adminUser.json</tspan>
+<tspan x="10" y="1482"> 90.  2017-04-20 00:35:00 +0000        2 bytes  template/game-server/config/clientProtos.json</tspan>
+<tspan x="10" y="1498"> 91.  2017-04-20 00:35:00 +0000        2 bytes  template/game-server/config/dictionary.json</tspan>
+<tspan x="10" y="1514"> 92.  2017-04-20 00:35:00 +0000     2269 bytes  template/game-server/config/log4js.json</tspan>
+<tspan x="10" y="1530"> 93.  2017-04-20 00:35:00 +0000      176 bytes  template/game-server/config/master.json</tspan>
+<tspan x="10" y="1546"> 94.  2017-04-20 00:35:00 +0000        2 bytes  template/game-server/config/serverProtos.json</tspan>
+<tspan x="10" y="1562"> 95.  2017-04-20 00:35:00 +0000      364 bytes  template/game-server/config/servers.json</tspan>
+<tspan x="10" y="1578"> 96.  2017-04-20 00:35:00 +0000      113 bytes  template/game-server/package.json</tspan>
+<tspan x="10" y="1594"> 97.  2017-04-20 00:35:00 +0000      166 bytes  template/npm-install.bat</tspan>
+<tspan x="10" y="1610"> 98.  2017-04-20 00:35:00 +0000      196 bytes  template/npm-install.sh</tspan>
+<tspan x="10" y="1626"> 99.  2017-04-20 00:35:00 +0000      854 bytes  template/shared/server.crt</tspan>
+<tspan x="10" y="1642">100.  2017-04-20 00:35:00 +0000      886 bytes  template/shared/server.key</tspan>
+<tspan x="10" y="1658">101.  2017-04-20 00:35:00 +0000      818 bytes  template/web-server/app.js</tspan>
+<tspan x="10" y="1674">102.  2017-04-20 00:35:00 +0000     1037 bytes  template/web-server/app.js.https</tspan>
+<tspan x="10" y="1690">103.  2017-04-20 00:35:00 +0000       62 bytes  template/web-server/bin/component.bat</tspan>
+<tspan x="10" y="1706">104.  2017-04-20 00:35:00 +0000       62 bytes  template/web-server/bin/component.sh</tspan>
+<tspan x="10" y="1722">105.  2017-04-20 00:35:00 +0000      107 bytes  template/web-server/package.json</tspan>
+<tspan x="10" y="1738">106.  2017-04-20 00:35:00 +0000     1048 bytes  template/web-server/public/css/base.css</tspan>
+<tspan x="10" y="1754">107.  2017-04-20 00:35:00 +0000     5370 bytes  template/web-server/public/image/logo.png</tspan>
+<tspan x="10" y="1770">108.  2017-04-20 00:35:00 +0000     3570 bytes  template/web-server/public/image/sp.png</tspan>
+<tspan x="10" y="1786">109.  2017-04-20 00:35:00 +0000     1679 bytes  template/web-server/public/index.html</tspan>
+<tspan x="10" y="1802">110.  2017-04-20 00:35:00 +0000     1643 bytes  template/web-server/public/index.html.sio</tspan>
+<tspan x="10" y="1818">111.  2017-04-20 00:35:00 +0000    40557 bytes  template/web-server/public/js/lib/build/build.js</tspan>
+<tspan x="10" y="1834">112.  2017-04-20 00:35:00 +0000    40243 bytes  template/web-server/public/js/lib/build/build.js\</tspan>
 <tspan x="10" y="1850">.wss</tspan>
-<tspan x="10" y="1866">113.  2017-04-20 00:33:39 +0000      109 bytes  template/web-server/public/js/lib/component.json</tspan>
-<tspan x="10" y="1882">114.  2017-04-20 00:33:39 +0000      283 bytes  template/web-server/public/js/lib/local/boot/com\</tspan>
+<tspan x="10" y="1866">113.  2017-04-20 00:35:00 +0000      109 bytes  template/web-server/public/js/lib/component.json</tspan>
+<tspan x="10" y="1882">114.  2017-04-20 00:35:00 +0000      283 bytes  template/web-server/public/js/lib/local/boot/com\</tspan>
 <tspan x="10" y="1898">ponent.json</tspan>
-<tspan x="10" y="1914">115.  2017-04-20 00:33:39 +0000      305 bytes  template/web-server/public/js/lib/local/boot/ind\</tspan>
+<tspan x="10" y="1914">115.  2017-04-20 00:35:00 +0000      305 bytes  template/web-server/public/js/lib/local/boot/ind\</tspan>
 <tspan x="10" y="1930">ex.js</tspan>
-<tspan x="10" y="1946">116.  2017-04-20 00:33:39 +0000    11637 bytes  template/web-server/public/js/lib/pomeloclient.j\</tspan>
+<tspan x="10" y="1946">116.  2017-04-20 00:35:00 +0000    11637 bytes  template/web-server/public/js/lib/pomeloclient.j\</tspan>
 <tspan x="10" y="1962">s</tspan>
-<tspan x="10" y="1978">117.  2017-04-20 00:33:39 +0000    11648 bytes  template/web-server/public/js/lib/pomeloclient.j\</tspan>
+<tspan x="10" y="1978">117.  2017-04-20 00:35:00 +0000    11648 bytes  template/web-server/public/js/lib/pomeloclient.j\</tspan>
 <tspan x="10" y="1994">s.wss</tspan>
-<tspan x="10" y="2010">118.  2017-04-20 00:33:39 +0000    72202 bytes  template/web-server/public/js/lib/socket.io.js</tspan>
-<tspan x="10" y="2026">119.  2017-04-20 00:33:39 +0000    16454 bytes  test/application.js</tspan>
-<tspan x="10" y="2042">120.  2017-04-20 00:33:39 +0000     1712 bytes  test/config/log4js.json</tspan>
-<tspan x="10" y="2058">121.  2017-04-20 00:33:39 +0000      180 bytes  test/config/master.json</tspan>
-<tspan x="10" y="2074">122.  2017-04-20 00:33:39 +0000       50 bytes  test/config/servers.json</tspan>
-<tspan x="10" y="2090">123.  2017-04-20 00:33:39 +0000     1202 bytes  test/filters/handler/serial.js</tspan>
-<tspan x="10" y="2106">124.  2017-04-20 00:33:39 +0000     1221 bytes  test/filters/handler/time.js</tspan>
-<tspan x="10" y="2122">125.  2017-04-20 00:33:39 +0000     1211 bytes  test/filters/handler/timeout.js</tspan>
-<tspan x="10" y="2138">126.  2017-04-20 00:33:39 +0000     1260 bytes  test/filters/handler/toobusy.js</tspan>
-<tspan x="10" y="2154">127.  2017-04-20 00:33:39 +0000      537 bytes  test/filters/rpc/rpcLog.js</tspan>
-<tspan x="10" y="2170">128.  2017-04-20 00:33:39 +0000      769 bytes  test/filters/rpc/toobusy.js</tspan>
-<tspan x="10" y="2186">129.  2017-04-20 00:33:39 +0000     1958 bytes  test/manager/mockChannelManager.js</tspan>
-<tspan x="10" y="2202">130.  2017-04-20 00:33:39 +0000     1725 bytes  test/manager/taskManager.js</tspan>
-<tspan x="10" y="2218">131.  2017-04-20 00:33:39 +0000        0 bytes  test/mock-base/app/servers/other-file</tspan>
-<tspan x="10" y="2234">132.  2017-04-20 00:33:39 +0000       97 bytes  test/mock-plugin/components/mockPlugin.js</tspan>
-<tspan x="10" y="2250">133.  2017-04-20 00:33:39 +0000      127 bytes  test/mock-plugin/events/mockEvent.js</tspan>
-<tspan x="10" y="2266">134.  2017-04-20 00:33:39 +0000     5875 bytes  test/modules/console.js</tspan>
-<tspan x="10" y="2282">135.  2017-04-20 00:33:39 +0000      449 bytes  test/pomelo.js</tspan>
-<tspan x="10" y="2298">136.  2017-04-20 00:33:39 +0000     5642 bytes  test/remote/channelRemote.js</tspan>
-<tspan x="10" y="2314">137.  2017-04-20 00:33:39 +0000     4851 bytes  test/service/channel.js</tspan>
-<tspan x="10" y="2330">138.  2017-04-20 00:33:39 +0000     8086 bytes  test/service/channelService.js</tspan>
-<tspan x="10" y="2346">139.  2017-04-20 00:33:39 +0000     4027 bytes  test/service/connectionService.js</tspan>
-<tspan x="10" y="2362">140.  2017-04-20 00:33:39 +0000     4577 bytes  test/service/filterService.js</tspan>
-<tspan x="10" y="2378">141.  2017-04-20 00:33:39 +0000     1778 bytes  test/service/handlerService.js</tspan>
-<tspan x="10" y="2394">142.  2017-04-20 00:33:39 +0000    13468 bytes  test/service/sessionService.js</tspan>
-<tspan x="10" y="2410">143.  2017-04-20 00:33:39 +0000     1919 bytes  test/util/countDownLatch.js</tspan>
-<tspan x="10" y="2426">144.  2017-04-20 00:33:39 +0000     3821 bytes  test/util/pathUtil.js</tspan>
-<tspan x="10" y="2442">145.  2017-04-20 00:33:39 +0000     4680 bytes  test/util/utils.js</tspan>
+<tspan x="10" y="2010">118.  2017-04-20 00:35:00 +0000    72202 bytes  template/web-server/public/js/lib/socket.io.js</tspan>
+<tspan x="10" y="2026">119.  2017-04-20 00:35:00 +0000    16454 bytes  test/application.js</tspan>
+<tspan x="10" y="2042">120.  2017-04-20 00:35:00 +0000     1712 bytes  test/config/log4js.json</tspan>
+<tspan x="10" y="2058">121.  2017-04-20 00:35:00 +0000      180 bytes  test/config/master.json</tspan>
+<tspan x="10" y="2074">122.  2017-04-20 00:35:00 +0000       50 bytes  test/config/servers.json</tspan>
+<tspan x="10" y="2090">123.  2017-04-20 00:35:00 +0000     1202 bytes  test/filters/handler/serial.js</tspan>
+<tspan x="10" y="2106">124.  2017-04-20 00:35:00 +0000     1221 bytes  test/filters/handler/time.js</tspan>
+<tspan x="10" y="2122">125.  2017-04-20 00:35:00 +0000     1211 bytes  test/filters/handler/timeout.js</tspan>
+<tspan x="10" y="2138">126.  2017-04-20 00:35:00 +0000     1260 bytes  test/filters/handler/toobusy.js</tspan>
+<tspan x="10" y="2154">127.  2017-04-20 00:35:00 +0000      537 bytes  test/filters/rpc/rpcLog.js</tspan>
+<tspan x="10" y="2170">128.  2017-04-20 00:35:00 +0000      769 bytes  test/filters/rpc/toobusy.js</tspan>
+<tspan x="10" y="2186">129.  2017-04-20 00:35:00 +0000     1958 bytes  test/manager/mockChannelManager.js</tspan>
+<tspan x="10" y="2202">130.  2017-04-20 00:35:00 +0000     1725 bytes  test/manager/taskManager.js</tspan>
+<tspan x="10" y="2218">131.  2017-04-20 00:35:00 +0000        0 bytes  test/mock-base/app/servers/other-file</tspan>
+<tspan x="10" y="2234">132.  2017-04-20 00:35:00 +0000       97 bytes  test/mock-plugin/components/mockPlugin.js</tspan>
+<tspan x="10" y="2250">133.  2017-04-20 00:35:00 +0000      127 bytes  test/mock-plugin/events/mockEvent.js</tspan>
+<tspan x="10" y="2266">134.  2017-04-20 00:35:00 +0000     5875 bytes  test/modules/console.js</tspan>
+<tspan x="10" y="2282">135.  2017-04-20 00:35:00 +0000      449 bytes  test/pomelo.js</tspan>
+<tspan x="10" y="2298">136.  2017-04-20 00:35:00 +0000     5642 bytes  test/remote/channelRemote.js</tspan>
+<tspan x="10" y="2314">137.  2017-04-20 00:35:00 +0000     4851 bytes  test/service/channel.js</tspan>
+<tspan x="10" y="2330">138.  2017-04-20 00:35:00 +0000     8086 bytes  test/service/channelService.js</tspan>
+<tspan x="10" y="2346">139.  2017-04-20 00:35:00 +0000     4027 bytes  test/service/connectionService.js</tspan>
+<tspan x="10" y="2362">140.  2017-04-20 00:35:00 +0000     4577 bytes  test/service/filterService.js</tspan>
+<tspan x="10" y="2378">141.  2017-04-20 00:35:00 +0000     1778 bytes  test/service/handlerService.js</tspan>
+<tspan x="10" y="2394">142.  2017-04-20 00:35:00 +0000    13468 bytes  test/service/sessionService.js</tspan>
+<tspan x="10" y="2410">143.  2017-04-20 00:35:00 +0000     1919 bytes  test/util/countDownLatch.js</tspan>
+<tspan x="10" y="2426">144.  2017-04-20 00:35:00 +0000     3821 bytes  test/util/pathUtil.js</tspan>
+<tspan x="10" y="2442">145.  2017-04-20 00:35:00 +0000     4680 bytes  test/util/utils.js</tspan>
 </text>
 </svg>
